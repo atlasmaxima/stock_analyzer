@@ -1,4 +1,5 @@
-# Stock Analyzer
+# Stock Analyzer <img src="./misc/iconStock.png" width="30" height="30">
+
 ## Background
 
 Stock Analyzer V.1 is a native Python graphical user interface. The GUI allows user(s) to enter their desired stock ticker symbol to conduct stock analysis.
@@ -86,7 +87,7 @@ You may clear the graph if you'd like and re-graph or you can select a different
 ### References
 - <b>Yahoo CSV Finance API</b>: (http://ichart.finance.yahoo.com/table.csv?s="ticker_symbol")
 
-- <img src="./Misc/iconStock.png" width="40" height="40"><p> Icon Source: http://www.freeiconspng.com/free-images/stock-exchange-icon-png-9909</p>
+- <img src="./misc/iconStock.png" width="30" height="30"><p> Icon Source: http://www.freeiconspng.com/free-images/stock-exchange-icon-png-9909</p>
 
 - Here is another resource for a list of ticker symbols for <b>New York Stock Exchange (NYSE)</b>,
 (http://eoddata.com/symbols.aspx)
